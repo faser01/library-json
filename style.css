@@ -1,0 +1,55 @@
+.book-info {
+    border: 1px solid #ccc;
+    padding: 10px;
+    margin-top: 20px;
+}
+  /* Стили для заголовка h2 */
+  h2 {
+    font-family: 'Arial', sans-serif;
+    font-size: 24px;
+    font-weight: bold;
+    color: #92060d;
+    margin-bottom: 10px;
+}
+
+ /* Стили для заголовка h3 */
+ h3 {
+    font-family: 'Arial', sans-serif;
+    font-size: 20px;
+    font-weight: bold;
+    color: #55070a;
+    margin-bottom: 10px;
+}
+
+/* Стили для параграфов */
+p {
+    font-family: 'Verdana', sans-serif;
+    font-size: 14px;
+    color: #4d4141;
+    line-height: 1.5;
+    margin-bottom: 10px;
+}
+/* Стили для кнопок */
+button {
+    padding: 10px 20px;
+    background-color: #337ab7;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 16px;
+    font-weight: bold;
+}
+
+/* Рамочки для блоков */
+div {
+    border: 2px solid #000;
+    padding: 20px;
+    margin-bottom: 10px;
+    border-radius: 5px;
+}
+
+/* Цвет фона */
+body {
+    background-color: #cbecc8;
+}
