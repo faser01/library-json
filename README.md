@@ -15,7 +15,7 @@
 ## Использование
 
 1. Клонировать репозиторий
-git clone https://github.com/faser01/library.git
+git clone https://github.com/faser01/library-json
 
 2. Открыть `index.html` в браузере
 
