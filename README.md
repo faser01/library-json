@@ -23,7 +23,7 @@ git clone https://github.com/faser01/library-json
 
 * `index.html` - основной файл с разметкой
 * `book1.json`, `book2.json`, `book3.json` - файлы с данными книг в формате JSON
-* `main.js` - основной файл, содержащий код логики приложения
+* `script.js` - основной файл, содержащий код логики приложения
 
 ## Автор
 
